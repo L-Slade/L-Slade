@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @L-Slade
-- 👀 I’m interested in Computer Microarchitecture, SoC, Embedded Systems, Software Engineering 
+- 👀 I’m interested in Computer Microarchitecture, VLSI, Embedded Systems, AI
 - 🌱 I’m currently learning Computer Engineering
 - 📫 Email: sladeluke9@gmail.com
 
