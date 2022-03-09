@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @L-Slade
-- 👀 I’m interested in Computer Microarchitecture, VLSI, Embedded Systems, AI
-- 🌱 I’m currently learning Computer Engineering
-- 📫 Email: sladeluke9@gmail.com
+- Hi, I’m @L-Slade
+- Interests: Computer Microarchitecture, VLSI, Embedded Systems, AI
+- Education: Computer Engineering Student
+- Email: sladeluke9@gmail.com
 
 <!---
 L-Slade/L-Slade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
