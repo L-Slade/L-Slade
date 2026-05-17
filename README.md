@@ -1,8 +1,16 @@
 Hi, I’m @L-Slade
 
-Interests: FPGA, Computer Architecture, Embedded Systems, AI, Parallel Processing, SWE
+Education: 
+- Masters of Science in Engineering, Applied Machine Learning
+- Bachelor of Science in Engineering, Computer Engineering
 
-Education: Bachelor of Science in Engineering
+Interests: 
+- Generative + Agentic AI
+- Machine Learning
+- Computer Architecture (FPGA, x86)
+- Embedded Systems
+- Parallel Processing
+- Engineering Education
 
 Email: sladeluke9@gmail.com
 
